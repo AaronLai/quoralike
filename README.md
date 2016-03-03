@@ -26,3 +26,7 @@ You are free to make any assumptions - just let me know what they are. Things I'
 - User can input answer but no function for submitting 
 - Page Trend only for demonstrating "the menu direct you to another page"
 - In full article page , only display a fixed article
+
+## Command to run 
+- Webpack 
+- npm run dev 
