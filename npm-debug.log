@@ -1,0 +1,648 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   'react-router@0.13.2' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.1
+4 verbose install initial load of /Volumes/Workbench/Project/quoraLike/package.json
+5 warn package.json quoralike@1.0.0 No repository field.
+6 warn package.json quoralike@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/babel-core/package.json
+8 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/babel-loader/package.json
+9 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/better-console/package.json
+10 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/css-loader/package.json
+11 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/del/package.json
+12 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/extend/package.json
+13 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/extract-text-webpack-plugin/package.json
+14 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/file-loader/package.json
+15 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp/package.json
+16 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-autoprefixer/package.json
+17 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-chmod/package.json
+18 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-clone/package.json
+19 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-concat/package.json
+20 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-concat-css/package.json
+21 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-copy/package.json
+22 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-dedupe/package.json
+23 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-flatten/package.json
+24 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-header/package.json
+25 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-help/package.json
+26 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-if/package.json
+27 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-less/package.json
+28 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-minify-css/package.json
+29 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-notify/package.json
+30 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-plumber/package.json
+31 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-print/package.json
+32 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-rename/package.json
+33 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-replace/package.json
+34 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-rtlcss/package.json
+35 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-uglify/package.json
+36 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-util/package.json
+37 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/gulp-watch/package.json
+38 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/jquery/package.json
+39 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/map-stream/package.json
+40 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/muicss/package.json
+41 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/react/package.json
+42 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/react-dom/package.json
+43 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/react-hot-loader/package.json
+44 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/require-dot-file/package.json
+45 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/run-sequence/package.json
+46 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/semantic-ui/package.json
+47 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/source-map-loader/package.json
+48 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/style-loader/package.json
+49 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/url-loader/package.json
+50 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/webpack/package.json
+51 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/webpack-dev-server/package.json
+52 verbose installManyTop reading scoped package data from /Volumes/Workbench/Project/quoraLike/node_modules/yamljs/package.json
+53 info package.json better-console@0.2.4 license should be a valid SPDX license expression
+54 info package.json gulp-clone@1.0.0 No license field.
+55 info package.json gulp-concat-css@2.2.0 No license field.
+56 info package.json gulp-copy@0.0.2 No license field.
+57 info package.json gulp-minify-css@1.2.4 No repository field.
+58 info package.json gulp-notify@2.2.0 No license field.
+59 info package.json gulp-rename@1.2.2 No license field.
+60 info package.json source-map-loader@0.1.5 No license field.
+61 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/package.json
+62 silly cache add args [ 'react-router@0.13.2', null ]
+63 verbose cache add spec react-router@0.13.2
+64 silly cache add parsed spec Result {
+64 silly cache add   raw: 'react-router@0.13.2',
+64 silly cache add   scope: null,
+64 silly cache add   name: 'react-router',
+64 silly cache add   rawSpec: '0.13.2',
+64 silly cache add   spec: '0.13.2',
+64 silly cache add   type: 'version' }
+65 silly addNamed react-router@0.13.2
+66 verbose addNamed "0.13.2" is a plain semver version for react-router
+67 silly mapToRegistry name react-router
+68 silly mapToRegistry using default registry
+69 silly mapToRegistry registry https://registry.npmjs.org/
+70 silly mapToRegistry uri https://registry.npmjs.org/react-router
+71 verbose addNameVersion registry:https://registry.npmjs.org/react-router not in flight; fetching
+72 verbose request uri https://registry.npmjs.org/react-router
+73 verbose request no auth needed
+74 info attempt registry request try #1 at 4:52:24 AM
+75 verbose request id 320f882ed2ea3cab
+76 verbose etag "6IVB3H4SQZ62R7LAQ2R1HYCYJ"
+77 http request GET https://registry.npmjs.org/react-router
+78 http 304 https://registry.npmjs.org/react-router
+79 verbose headers { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+79 verbose headers   via: '1.1 varnish',
+79 verbose headers   'cache-control': 'max-age=300',
+79 verbose headers   etag: '"6IVB3H4SQZ62R7LAQ2R1HYCYJ"',
+79 verbose headers   age: '279',
+79 verbose headers   connection: 'keep-alive',
+79 verbose headers   'x-served-by': 'cache-hkg6820-HKG',
+79 verbose headers   'x-cache': 'HIT',
+79 verbose headers   'x-cache-hits': '1',
+79 verbose headers   'x-timer': 'S1457038344.455318,VS0,VE0',
+79 verbose headers   vary: 'Accept' }
+80 silly get cb [ 304,
+80 silly get   { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+80 silly get     via: '1.1 varnish',
+80 silly get     'cache-control': 'max-age=300',
+80 silly get     etag: '"6IVB3H4SQZ62R7LAQ2R1HYCYJ"',
+80 silly get     age: '279',
+80 silly get     connection: 'keep-alive',
+80 silly get     'x-served-by': 'cache-hkg6820-HKG',
+80 silly get     'x-cache': 'HIT',
+80 silly get     'x-cache-hits': '1',
+80 silly get     'x-timer': 'S1457038344.455318,VS0,VE0',
+80 silly get     vary: 'Accept' } ]
+81 verbose etag https://registry.npmjs.org/react-router from cache
+82 verbose get saving react-router to /Users/aaron/.npm/registry.npmjs.org/react-router/.cache.json
+83 silly cache afterAdd react-router@0.13.2
+84 verbose afterAdd /Users/aaron/.npm/react-router/0.13.2/package/package.json not in flight; writing
+85 verbose afterAdd /Users/aaron/.npm/react-router/0.13.2/package/package.json written
+86 silly install resolved [ { name: 'react-router',
+86 silly install resolved     version: '0.13.2',
+86 silly install resolved     description: 'A complete routing library for React.js',
+86 silly install resolved     main: 'lib',
+86 silly install resolved     repository:
+86 silly install resolved      { type: 'git',
+86 silly install resolved        url: 'git+https://github.com/rackt/react-router.git' },
+86 silly install resolved     homepage: 'https://github.com/rackt/react-router/blob/latest/README.md',
+86 silly install resolved     bugs: { url: 'https://github.com/rackt/react-router/issues' },
+86 silly install resolved     authors: [ 'Ryan Florence', 'Michael Jackson' ],
+86 silly install resolved     license: 'MIT',
+86 silly install resolved     peerDependencies: { react: '0.13.x' },
+86 silly install resolved     dependencies: { qs: '2.4.1', classnames: '1.1.x', 'object-assign': '^2.0.0' },
+86 silly install resolved     tags: [ 'react', 'router' ],
+86 silly install resolved     keywords:
+86 silly install resolved      [ 'react',
+86 silly install resolved        'react-component',
+86 silly install resolved        'routing',
+86 silly install resolved        'route',
+86 silly install resolved        'routes',
+86 silly install resolved        'router' ],
+86 silly install resolved     _id: 'react-router@0.13.2',
+86 silly install resolved     scripts: {},
+86 silly install resolved     _shasum: '09343b14f799983ed210e2f466f28f7f1cf1b807',
+86 silly install resolved     _from: 'react-router@0.13.2',
+86 silly install resolved     _resolved: 'https://registry.npmjs.org/react-router/-/react-router-0.13.2.tgz',
+86 silly install resolved     _npmVersion: '2.5.1',
+86 silly install resolved     _nodeVersion: '0.12.0',
+86 silly install resolved     _npmUser: { name: 'ryanflorence', email: 'rpflorence@gmail.com' },
+86 silly install resolved     maintainers: [ [Object], [Object] ],
+86 silly install resolved     dist:
+86 silly install resolved      { shasum: '09343b14f799983ed210e2f466f28f7f1cf1b807',
+86 silly install resolved        tarball: 'http://registry.npmjs.org/react-router/-/react-router-0.13.2.tgz' },
+86 silly install resolved     directories: {},
+86 silly install resolved     readme: 'ERROR: No README data found!' } ]
+87 info install react-router@0.13.2 into /Volumes/Workbench/Project/quoraLike
+88 info installOne react-router@0.13.2
+89 verbose installOne of react-router to /Volumes/Workbench/Project/quoraLike not in flight; installing
+90 verbose lock using /Users/aaron/.npm/_locks/react-router-d9a20e535b33a27e.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+91 silly install write writing react-router 0.13.2 to /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+92 verbose unbuild node_modules/react-router
+93 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router is being purged from base /Volumes/Workbench/Project/quoraLike
+94 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+95 verbose tar unpack /Users/aaron/.npm/react-router/0.13.2/package.tgz
+96 verbose tar unpacking to /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+97 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router is being purged
+98 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+99 silly gunzTarPerm modes [ '755', '644' ]
+100 silly gunzTarPerm extractEntry package.json
+101 silly gunzTarPerm extractEntry README.md
+102 silly gunzTarPerm extractEntry lib/Cancellation.js
+103 silly gunzTarPerm extractEntry lib/Redirect.js
+104 silly gunzTarPerm extractEntry lib/Route.js
+105 silly gunzTarPerm extractEntry lib/ScrollHistory.js
+106 silly gunzTarPerm extractEntry lib/PropTypes.js
+107 silly gunzTarPerm extractEntry lib/TestUtils.js
+108 silly gunzTarPerm extractEntry lib/History.js
+109 silly gunzTarPerm extractEntry lib/runRouter.js
+110 silly gunzTarPerm extractEntry lib/isReactChildren.js
+111 silly gunzTarPerm extractEntry lib/index.js
+112 silly gunzTarPerm extractEntry lib/PathUtils.js
+113 silly gunzTarPerm extractEntry lib/createRouter.js
+114 silly gunzTarPerm extractEntry lib/Navigation.js
+115 silly gunzTarPerm extractEntry lib/createRoutesFromReactChildren.js
+116 silly gunzTarPerm extractEntry lib/Match.js
+117 silly gunzTarPerm extractEntry lib/getWindowScrollPosition.js
+118 silly gunzTarPerm extractEntry lib/State.js
+119 silly gunzTarPerm extractEntry lib/supportsHistory.js
+120 silly gunzTarPerm extractEntry lib/Transition.js
+121 silly gunzTarPerm extractEntry lib/components/ContextWrapper.js
+122 silly gunzTarPerm extractEntry lib/components/DefaultRoute.js
+123 silly gunzTarPerm extractEntry lib/components/Link.js
+124 silly gunzTarPerm extractEntry lib/components/NotFoundRoute.js
+125 silly gunzTarPerm extractEntry lib/components/Redirect.js
+126 silly gunzTarPerm extractEntry lib/components/Route.js
+127 silly gunzTarPerm extractEntry lib/components/RouteHandler.js
+128 silly gunzTarPerm extractEntry lib/behaviors/ImitateBrowserBehavior.js
+129 silly gunzTarPerm extractEntry lib/behaviors/ScrollToTopBehavior.js
+130 silly gunzTarPerm extractEntry lib/locations/HashLocation.js
+131 silly gunzTarPerm extractEntry lib/locations/HistoryLocation.js
+132 silly gunzTarPerm extractEntry lib/locations/RefreshLocation.js
+133 silly gunzTarPerm extractEntry lib/locations/StaticLocation.js
+134 silly gunzTarPerm extractEntry lib/locations/TestLocation.js
+135 silly gunzTarPerm extractEntry lib/actions/LocationActions.js
+136 verbose write writing to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/package.json
+137 info preinstall react-router@0.13.2
+138 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/package.json
+139 silly prepareForInstallMany adding qs@2.4.1 from react-router dependencies
+140 silly prepareForInstallMany adding classnames@1.1.x from react-router dependencies
+141 silly prepareForInstallMany adding object-assign@^2.0.0 from react-router dependencies
+142 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/package.json
+143 silly cache add args [ 'classnames@1.1.x', null ]
+144 verbose cache add spec classnames@1.1.x
+145 silly cache add parsed spec Result {
+145 silly cache add   raw: 'classnames@1.1.x',
+145 silly cache add   scope: null,
+145 silly cache add   name: 'classnames',
+145 silly cache add   rawSpec: '1.1.x',
+145 silly cache add   spec: '>=1.1.0 <1.2.0',
+145 silly cache add   type: 'range' }
+146 silly addNamed classnames@>=1.1.0 <1.2.0
+147 verbose addNamed ">=1.1.0 <1.2.0" is a valid semver range for classnames
+148 silly addNameRange { name: 'classnames', range: '>=1.1.0 <1.2.0', hasData: false }
+149 silly mapToRegistry name classnames
+150 silly mapToRegistry using default registry
+151 silly mapToRegistry registry https://registry.npmjs.org/
+152 silly mapToRegistry uri https://registry.npmjs.org/classnames
+153 verbose addNameRange registry:https://registry.npmjs.org/classnames not in flight; fetching
+154 silly cache add args [ 'object-assign@^2.0.0', null ]
+155 verbose cache add spec object-assign@^2.0.0
+156 silly cache add parsed spec Result {
+156 silly cache add   raw: 'object-assign@^2.0.0',
+156 silly cache add   scope: null,
+156 silly cache add   name: 'object-assign',
+156 silly cache add   rawSpec: '^2.0.0',
+156 silly cache add   spec: '>=2.0.0 <3.0.0',
+156 silly cache add   type: 'range' }
+157 silly addNamed object-assign@>=2.0.0 <3.0.0
+158 verbose addNamed ">=2.0.0 <3.0.0" is a valid semver range for object-assign
+159 silly addNameRange { name: 'object-assign',
+159 silly addNameRange   range: '>=2.0.0 <3.0.0',
+159 silly addNameRange   hasData: false }
+160 silly mapToRegistry name object-assign
+161 silly mapToRegistry using default registry
+162 silly mapToRegistry registry https://registry.npmjs.org/
+163 silly mapToRegistry uri https://registry.npmjs.org/object-assign
+164 verbose addNameRange registry:https://registry.npmjs.org/object-assign not in flight; fetching
+165 silly cache add args [ 'qs@2.4.1', null ]
+166 verbose cache add spec qs@2.4.1
+167 silly cache add parsed spec Result {
+167 silly cache add   raw: 'qs@2.4.1',
+167 silly cache add   scope: null,
+167 silly cache add   name: 'qs',
+167 silly cache add   rawSpec: '2.4.1',
+167 silly cache add   spec: '2.4.1',
+167 silly cache add   type: 'version' }
+168 silly addNamed qs@2.4.1
+169 verbose addNamed "2.4.1" is a plain semver version for qs
+170 silly mapToRegistry name qs
+171 silly mapToRegistry using default registry
+172 silly mapToRegistry registry https://registry.npmjs.org/
+173 silly mapToRegistry uri https://registry.npmjs.org/qs
+174 verbose addNameVersion registry:https://registry.npmjs.org/qs not in flight; fetching
+175 verbose request uri https://registry.npmjs.org/classnames
+176 verbose request no auth needed
+177 info attempt registry request try #1 at 4:52:24 AM
+178 verbose etag "CGROITZ31K6GXQJP3Q7DQS69W"
+179 http request GET https://registry.npmjs.org/classnames
+180 verbose request uri https://registry.npmjs.org/object-assign
+181 verbose request no auth needed
+182 info attempt registry request try #1 at 4:52:24 AM
+183 verbose etag "7IA60PJ0QC59PXUC9K809HK5U"
+184 http request GET https://registry.npmjs.org/object-assign
+185 verbose request uri https://registry.npmjs.org/qs
+186 verbose request no auth needed
+187 info attempt registry request try #1 at 4:52:24 AM
+188 verbose etag "O0I7RQGFKLBPZX1OQDQMO4TO"
+189 http request GET https://registry.npmjs.org/qs
+190 http 304 https://registry.npmjs.org/object-assign
+191 verbose headers { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+191 verbose headers   via: '1.1 varnish',
+191 verbose headers   'cache-control': 'max-age=300',
+191 verbose headers   etag: '"7IA60PJ0QC59PXUC9K809HK5U"',
+191 verbose headers   age: '230',
+191 verbose headers   connection: 'keep-alive',
+191 verbose headers   'x-served-by': 'cache-hkg6822-HKG',
+191 verbose headers   'x-cache': 'HIT',
+191 verbose headers   'x-cache-hits': '4',
+191 verbose headers   'x-timer': 'S1457038344.698243,VS0,VE0',
+191 verbose headers   vary: 'Accept' }
+192 silly get cb [ 304,
+192 silly get   { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+192 silly get     via: '1.1 varnish',
+192 silly get     'cache-control': 'max-age=300',
+192 silly get     etag: '"7IA60PJ0QC59PXUC9K809HK5U"',
+192 silly get     age: '230',
+192 silly get     connection: 'keep-alive',
+192 silly get     'x-served-by': 'cache-hkg6822-HKG',
+192 silly get     'x-cache': 'HIT',
+192 silly get     'x-cache-hits': '4',
+192 silly get     'x-timer': 'S1457038344.698243,VS0,VE0',
+192 silly get     vary: 'Accept' } ]
+193 verbose etag https://registry.npmjs.org/object-assign from cache
+194 verbose get saving object-assign to /Users/aaron/.npm/registry.npmjs.org/object-assign/.cache.json
+195 http 304 https://registry.npmjs.org/qs
+196 verbose headers { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+196 verbose headers   via: '1.1 varnish',
+196 verbose headers   'cache-control': 'max-age=300',
+196 verbose headers   etag: '"O0I7RQGFKLBPZX1OQDQMO4TO"',
+196 verbose headers   age: '3',
+196 verbose headers   connection: 'keep-alive',
+196 verbose headers   'x-served-by': 'cache-hkg6824-HKG',
+196 verbose headers   'x-cache': 'HIT',
+196 verbose headers   'x-cache-hits': '1',
+196 verbose headers   'x-timer': 'S1457038344.698160,VS0,VE0',
+196 verbose headers   vary: 'Accept' }
+197 silly get cb [ 304,
+197 silly get   { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+197 silly get     via: '1.1 varnish',
+197 silly get     'cache-control': 'max-age=300',
+197 silly get     etag: '"O0I7RQGFKLBPZX1OQDQMO4TO"',
+197 silly get     age: '3',
+197 silly get     connection: 'keep-alive',
+197 silly get     'x-served-by': 'cache-hkg6824-HKG',
+197 silly get     'x-cache': 'HIT',
+197 silly get     'x-cache-hits': '1',
+197 silly get     'x-timer': 'S1457038344.698160,VS0,VE0',
+197 silly get     vary: 'Accept' } ]
+198 verbose etag https://registry.npmjs.org/qs from cache
+199 verbose get saving qs to /Users/aaron/.npm/registry.npmjs.org/qs/.cache.json
+200 silly addNameRange number 2 { name: 'object-assign', range: '>=2.0.0 <3.0.0', hasData: true }
+201 silly addNameRange versions [ 'object-assign',
+201 silly addNameRange   [ '0.1.0',
+201 silly addNameRange     '0.1.1',
+201 silly addNameRange     '0.1.2',
+201 silly addNameRange     '0.2.0',
+201 silly addNameRange     '0.2.1',
+201 silly addNameRange     '0.2.2',
+201 silly addNameRange     '0.3.0',
+201 silly addNameRange     '0.3.1',
+201 silly addNameRange     '0.4.0',
+201 silly addNameRange     '1.0.0',
+201 silly addNameRange     '2.0.0',
+201 silly addNameRange     '3.0.0',
+201 silly addNameRange     '2.1.1',
+201 silly addNameRange     '4.0.0',
+201 silly addNameRange     '4.0.1' ] ]
+202 silly addNamed object-assign@2.1.1
+203 verbose addNamed "2.1.1" is a plain semver version for object-assign
+204 silly cache afterAdd object-assign@2.1.1
+205 verbose afterAdd /Users/aaron/.npm/object-assign/2.1.1/package/package.json not in flight; writing
+206 silly cache afterAdd qs@2.4.1
+207 verbose afterAdd /Users/aaron/.npm/qs/2.4.1/package/package.json not in flight; writing
+208 verbose afterAdd /Users/aaron/.npm/qs/2.4.1/package/package.json written
+209 verbose afterAdd /Users/aaron/.npm/object-assign/2.1.1/package/package.json written
+210 http 304 https://registry.npmjs.org/classnames
+211 verbose headers { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+211 verbose headers   via: '1.1 varnish',
+211 verbose headers   'cache-control': 'max-age=300',
+211 verbose headers   etag: '"CGROITZ31K6GXQJP3Q7DQS69W"',
+211 verbose headers   age: '0',
+211 verbose headers   connection: 'keep-alive',
+211 verbose headers   'x-served-by': 'cache-hkg6827-HKG',
+211 verbose headers   'x-cache': 'HIT',
+211 verbose headers   'x-cache-hits': '1',
+211 verbose headers   'x-timer': 'S1457038344.698606,VS0,VE907',
+211 verbose headers   vary: 'Accept' }
+212 silly get cb [ 304,
+212 silly get   { date: 'Thu, 03 Mar 2016 20:52:24 GMT',
+212 silly get     via: '1.1 varnish',
+212 silly get     'cache-control': 'max-age=300',
+212 silly get     etag: '"CGROITZ31K6GXQJP3Q7DQS69W"',
+212 silly get     age: '0',
+212 silly get     connection: 'keep-alive',
+212 silly get     'x-served-by': 'cache-hkg6827-HKG',
+212 silly get     'x-cache': 'HIT',
+212 silly get     'x-cache-hits': '1',
+212 silly get     'x-timer': 'S1457038344.698606,VS0,VE907',
+212 silly get     vary: 'Accept' } ]
+213 verbose etag https://registry.npmjs.org/classnames from cache
+214 verbose get saving classnames to /Users/aaron/.npm/registry.npmjs.org/classnames/.cache.json
+215 silly addNameRange number 2 { name: 'classnames', range: '>=1.1.0 <1.2.0', hasData: true }
+216 silly addNameRange versions [ 'classnames',
+216 silly addNameRange   [ '1.0.0',
+216 silly addNameRange     '1.1.0',
+216 silly addNameRange     '1.1.1',
+216 silly addNameRange     '1.1.2',
+216 silly addNameRange     '1.1.3',
+216 silly addNameRange     '1.1.4',
+216 silly addNameRange     '1.2.0',
+216 silly addNameRange     '1.2.1',
+216 silly addNameRange     '1.2.2',
+216 silly addNameRange     '2.0.0',
+216 silly addNameRange     '2.1.0',
+216 silly addNameRange     '2.1.1',
+216 silly addNameRange     '2.1.2',
+216 silly addNameRange     '2.1.3',
+216 silly addNameRange     '2.1.4',
+216 silly addNameRange     '2.1.5',
+216 silly addNameRange     '2.2.0',
+216 silly addNameRange     '2.2.1',
+216 silly addNameRange     '2.2.2',
+216 silly addNameRange     '2.2.3' ] ]
+217 silly addNamed classnames@1.1.4
+218 verbose addNamed "1.1.4" is a plain semver version for classnames
+219 silly cache afterAdd classnames@1.1.4
+220 verbose afterAdd /Users/aaron/.npm/classnames/1.1.4/package/package.json not in flight; writing
+221 verbose afterAdd /Users/aaron/.npm/classnames/1.1.4/package/package.json written
+222 silly install resolved [ { name: 'qs',
+222 silly install resolved     version: '2.4.1',
+222 silly install resolved     description: 'A querystring parser that supports nesting and arrays, with a depth limit',
+222 silly install resolved     homepage: 'https://github.com/hapijs/qs',
+222 silly install resolved     main: 'index.js',
+222 silly install resolved     dependencies: {},
+222 silly install resolved     devDependencies: { code: '1.x.x', lab: '5.x.x' },
+222 silly install resolved     scripts: { test: 'make test-cov' },
+222 silly install resolved     repository: { type: 'git', url: 'git+https://github.com/hapijs/qs.git' },
+222 silly install resolved     keywords: [ 'querystring', 'qs' ],
+222 silly install resolved     licenses: [ [Object] ],
+222 silly install resolved     gitHead: '58c6540418954867822c1af3e45fb4c26708b07e',
+222 silly install resolved     bugs: { url: 'https://github.com/hapijs/qs/issues' },
+222 silly install resolved     _id: 'qs@2.4.1',
+222 silly install resolved     _shasum: '68cbaea971013426a80c1404fad6b1a6b1175245',
+222 silly install resolved     _from: 'qs@2.4.1',
+222 silly install resolved     _npmVersion: '2.6.1',
+222 silly install resolved     _nodeVersion: '0.10.36',
+222 silly install resolved     _npmUser: { name: 'nlf', email: 'quitlahok@gmail.com' },
+222 silly install resolved     maintainers: [ [Object], [Object] ],
+222 silly install resolved     dist:
+222 silly install resolved      { shasum: '68cbaea971013426a80c1404fad6b1a6b1175245',
+222 silly install resolved        tarball: 'http://registry.npmjs.org/qs/-/qs-2.4.1.tgz' },
+222 silly install resolved     directories: {},
+222 silly install resolved     _resolved: 'https://registry.npmjs.org/qs/-/qs-2.4.1.tgz',
+222 silly install resolved     readme: 'ERROR: No README data found!' },
+222 silly install resolved   { name: 'object-assign',
+222 silly install resolved     version: '2.1.1',
+222 silly install resolved     description: 'ES6 Object.assign() ponyfill',
+222 silly install resolved     license: 'MIT',
+222 silly install resolved     repository:
+222 silly install resolved      { type: 'git',
+222 silly install resolved        url: 'git+https://github.com/sindresorhus/object-assign.git' },
+222 silly install resolved     author:
+222 silly install resolved      { name: 'Sindre Sorhus',
+222 silly install resolved        email: 'sindresorhus@gmail.com',
+222 silly install resolved        url: 'http://sindresorhus.com' },
+222 silly install resolved     engines: { node: '>=0.10.0' },
+222 silly install resolved     scripts: { test: 'mocha' },
+222 silly install resolved     files: [ 'index.js' ],
+222 silly install resolved     keywords:
+222 silly install resolved      [ 'object',
+222 silly install resolved        'assign',
+222 silly install resolved        'extend',
+222 silly install resolved        'properties',
+222 silly install resolved        'es6',
+222 silly install resolved        'ecmascript',
+222 silly install resolved        'harmony',
+222 silly install resolved        'ponyfill',
+222 silly install resolved        'prollyfill',
+222 silly install resolved        'polyfill',
+222 silly install resolved        'shim',
+222 silly install resolved        'browser' ],
+222 silly install resolved     devDependencies: { mocha: '*' },
+222 silly install resolved     readme: '# object-assign [![Build Status](https://travis-ci.org/sindresorhus/object-assign.svg?branch=master)](https://travis-ci.org/sindresorhus/object-assign)\n\n> ES6 [`Object.assign()`](http://www.2ality.com/2014/01/object-assign.html) ponyfill\n\n> Ponyfill: A polyfill that doesn\'t overwrite the native method\n\n\n## Install\n\n```sh\n$ npm install --save object-assign\n```\n\n\n## Usage\n\n```js\nvar objectAssign = require(\'object-assign\');\n\nobjectAssign({foo: 0}, {bar: 1});\n//=> {foo: 0, bar: 1}\n\n// multiple sources\nobjectAssign({foo: 0}, {bar: 1}, {baz: 2});\n//=> {foo: 0, bar: 1, baz: 2}\n\n// overwrites equal keys\nobjectAssign({foo: 0}, {foo: 1}, {foo: 2});\n//=> {foo: 2}\n\n// ignores null and undefined sources\nobjectAssign({foo: 0}, null, {bar: 1}, undefined);\n//=> {foo: 0, bar: 1}\n```\n\n\n## API\n\n### objectAssign(target, source, [source, ...])\n\nAssigns enumerable own properties of `source` objects to the `target` object and returns the `target` object. Additional `source` objects will overwrite previous ones.\n\n\n## Resources\n\n- [ES6 spec - Object.assign](https://people.mozilla.org/~jorendorff/es6-draft.html#sec-object.assign)\n\n\n## License\n\nMIT © [Sindre Sorhus](http://sindresorhus.com)\n',
+222 silly install resolved     readmeFilename: 'readme.md',
+222 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/object-assign/issues' },
+222 silly install resolved     homepage: 'https://github.com/sindresorhus/object-assign#readme',
+222 silly install resolved     _id: 'object-assign@2.1.1',
+222 silly install resolved     _shasum: '43c36e5d569ff8e4816c4efa8be02d26967c18aa',
+222 silly install resolved     _resolved: 'https://registry.npmjs.org/object-assign/-/object-assign-2.1.1.tgz',
+222 silly install resolved     _from: 'object-assign@>=2.0.0 <3.0.0' },
+222 silly install resolved   { name: 'classnames',
+222 silly install resolved     version: '1.1.4',
+222 silly install resolved     description: 'A simple utility for conditionally joining classNames together',
+222 silly install resolved     main: 'index.js',
+222 silly install resolved     author: { name: 'Jed Watson' },
+222 silly install resolved     license: 'MIT',
+222 silly install resolved     repository:
+222 silly install resolved      { type: 'git',
+222 silly install resolved        url: 'git+https://github.com/JedWatson/classnames.git' },
+222 silly install resolved     scripts: { test: 'mocha tests.js' },
+222 silly install resolved     keywords:
+222 silly install resolved      [ 'react',
+222 silly install resolved        'css',
+222 silly install resolved        'classes',
+222 silly install resolved        'classname',
+222 silly install resolved        'classnames',
+222 silly install resolved        'util',
+222 silly install resolved        'utility' ],
+222 silly install resolved     devDependencies: { mocha: '^2.1.0' },
+222 silly install resolved     gitHead: '1270d5e9b5470fe2faab2a9759cfb66811912ce5',
+222 silly install resolved     bugs: { url: 'https://github.com/JedWatson/classnames/issues' },
+222 silly install resolved     homepage: 'https://github.com/JedWatson/classnames',
+222 silly install resolved     _id: 'classnames@1.1.4',
+222 silly install resolved     _shasum: '47f30e55b8608dedd74fd2b39830c4d7716d4ae3',
+222 silly install resolved     _from: 'classnames@>=1.1.0 <1.2.0',
+222 silly install resolved     _npmVersion: '1.4.28',
+222 silly install resolved     _npmUser: { name: 'jedwatson', email: 'jed.watson@me.com' },
+222 silly install resolved     maintainers: [ [Object] ],
+222 silly install resolved     dist:
+222 silly install resolved      { shasum: '47f30e55b8608dedd74fd2b39830c4d7716d4ae3',
+222 silly install resolved        tarball: 'http://registry.npmjs.org/classnames/-/classnames-1.1.4.tgz' },
+222 silly install resolved     directories: {},
+222 silly install resolved     _resolved: 'https://registry.npmjs.org/classnames/-/classnames-1.1.4.tgz',
+222 silly install resolved     readme: 'ERROR: No README data found!' } ]
+223 info install qs@2.4.1 into /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+224 info install object-assign@2.1.1 into /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+225 info install classnames@1.1.4 into /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+226 info installOne qs@2.4.1
+227 verbose installOne of qs to /Volumes/Workbench/Project/quoraLike/node_modules/react-router not in flight; installing
+228 info installOne object-assign@2.1.1
+229 verbose installOne of object-assign to /Volumes/Workbench/Project/quoraLike/node_modules/react-router not in flight; installing
+230 info installOne classnames@1.1.4
+231 verbose installOne of classnames to /Volumes/Workbench/Project/quoraLike/node_modules/react-router not in flight; installing
+232 verbose lock using /Users/aaron/.npm/_locks/classnames-5fd0e03ba8ddee2b.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+233 verbose lock using /Users/aaron/.npm/_locks/object-assign-516dc167d1e2610e.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+234 verbose lock using /Users/aaron/.npm/_locks/qs-bc13d48d4c344982.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+235 silly install write writing classnames 1.1.4 to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+236 silly install write writing object-assign 2.1.1 to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+237 silly install write writing qs 2.4.1 to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+238 verbose unbuild node_modules/react-router/node_modules/object-assign
+239 verbose unbuild node_modules/react-router/node_modules/classnames
+240 verbose unbuild node_modules/react-router/node_modules/qs
+241 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign is being purged from base /Volumes/Workbench/Project/quoraLike
+242 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+243 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames is being purged from base /Volumes/Workbench/Project/quoraLike
+244 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+245 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs is being purged from base /Volumes/Workbench/Project/quoraLike
+246 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+247 verbose tar unpack /Users/aaron/.npm/object-assign/2.1.1/package.tgz
+248 verbose tar unpacking to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+249 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign is being purged
+250 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+251 verbose tar unpack /Users/aaron/.npm/classnames/1.1.4/package.tgz
+252 verbose tar unpacking to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+253 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames is being purged
+254 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+255 verbose tar unpack /Users/aaron/.npm/qs/2.4.1/package.tgz
+256 verbose tar unpacking to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+257 silly gentlyRm /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs is being purged
+258 verbose gentlyRm don't care about contents; nuking /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+259 silly gunzTarPerm modes [ '755', '644' ]
+260 silly gunzTarPerm modes [ '755', '644' ]
+261 silly gunzTarPerm modes [ '755', '644' ]
+262 silly gunzTarPerm extractEntry package.json
+263 silly gunzTarPerm extractEntry package.json
+264 silly gunzTarPerm extractEntry package.json
+265 silly gunzTarPerm extractEntry index.js
+266 silly gunzTarPerm extractEntry license
+267 silly gunzTarPerm extractEntry .npmignore
+268 silly gunzTarPerm extractEntry README.md
+269 silly gunzTarPerm extractEntry .npmignore
+270 silly gunzTarPerm extractEntry README.md
+271 silly gunzTarPerm extractEntry readme.md
+272 silly gunzTarPerm extractEntry LICENSE
+273 silly gunzTarPerm extractEntry index.js
+274 silly gunzTarPerm extractEntry LICENSE
+275 silly gunzTarPerm extractEntry index.js
+276 silly gunzTarPerm extractEntry CHANGELOG.md
+277 silly gunzTarPerm extractEntry CONTRIBUTING.md
+278 silly gunzTarPerm extractEntry Makefile
+279 silly gunzTarPerm extractEntry .jshintignore
+280 silly gunzTarPerm extractEntry .jshintrc
+281 silly gunzTarPerm extractEntry lib/index.js
+282 silly gunzTarPerm extractEntry lib/parse.js
+283 silly gunzTarPerm extractEntry lib/stringify.js
+284 silly gunzTarPerm extractEntry lib/utils.js
+285 silly gunzTarPerm extractEntry .travis.yml
+286 silly gunzTarPerm extractEntry test/parse.js
+287 silly gunzTarPerm extractEntry test/stringify.js
+288 silly gunzTarPerm extractEntry tests.js
+289 silly gunzTarPerm extractEntry .editorconfig
+290 silly gunzTarPerm extractEntry bower.json
+291 silly gunzTarPerm modified mode [ 'bower.json', 436, 420 ]
+292 verbose write writing to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign/package.json
+293 info preinstall object-assign@2.1.1
+294 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign/package.json
+295 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign/package.json
+296 silly install resolved []
+297 verbose about to build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+298 info build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+299 info linkStuff object-assign@2.1.1
+300 silly linkStuff object-assign@2.1.1 has /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules as its parent node_modules
+301 verbose linkBins object-assign@2.1.1
+302 verbose linkMans object-assign@2.1.1
+303 verbose rebuildBundles object-assign@2.1.1
+304 info install object-assign@2.1.1
+305 info postinstall object-assign@2.1.1
+306 verbose write writing to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames/package.json
+307 verbose unlock done using /Users/aaron/.npm/_locks/object-assign-516dc167d1e2610e.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/object-assign
+308 info preinstall classnames@1.1.4
+309 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames/package.json
+310 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames/package.json
+311 silly install resolved []
+312 verbose about to build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+313 info build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+314 info linkStuff classnames@1.1.4
+315 silly linkStuff classnames@1.1.4 has /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules as its parent node_modules
+316 verbose linkBins classnames@1.1.4
+317 verbose linkMans classnames@1.1.4
+318 verbose rebuildBundles classnames@1.1.4
+319 info install classnames@1.1.4
+320 info postinstall classnames@1.1.4
+321 verbose unlock done using /Users/aaron/.npm/_locks/classnames-5fd0e03ba8ddee2b.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/classnames
+322 verbose write writing to /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs/package.json
+323 info preinstall qs@2.4.1
+324 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs/package.json
+325 verbose readDependencies loading dependencies from /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs/package.json
+326 silly install resolved []
+327 verbose about to build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+328 info build /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+329 info linkStuff qs@2.4.1
+330 silly linkStuff qs@2.4.1 has /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules as its parent node_modules
+331 verbose linkBins qs@2.4.1
+332 verbose linkMans qs@2.4.1
+333 verbose rebuildBundles qs@2.4.1
+334 info install qs@2.4.1
+335 info postinstall qs@2.4.1
+336 verbose unlock done using /Users/aaron/.npm/_locks/qs-bc13d48d4c344982.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router/node_modules/qs
+337 verbose about to build /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+338 info build /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+339 info linkStuff react-router@0.13.2
+340 silly linkStuff react-router@0.13.2 has /Volumes/Workbench/Project/quoraLike/node_modules as its parent node_modules
+341 verbose linkBins react-router@0.13.2
+342 verbose linkMans react-router@0.13.2
+343 verbose rebuildBundles react-router@0.13.2
+344 verbose rebuildBundles [ 'classnames', 'object-assign', 'qs' ]
+345 info install react-router@0.13.2
+346 info postinstall react-router@0.13.2
+347 verbose unlock done using /Users/aaron/.npm/_locks/react-router-d9a20e535b33a27e.lock for /Volumes/Workbench/Project/quoraLike/node_modules/react-router
+348 verbose validateInstall loading /Volumes/Workbench/Project/quoraLike/package.json for validation
+349 verbose stack Error: The package react@0.13.3 does not satisfy its siblings' peerDependencies requirements!
+349 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+349 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:268:7
+349 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+349 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+349 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+349 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+349 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+349 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+349 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+349 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+350 verbose cwd /Volumes/Workbench/Project/quoraLike
+351 error Darwin 15.3.0
+352 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "react-router@0.13.2"
+353 error node v4.2.1
+354 error npm  v2.14.7
+355 error code EPEERINVALID
+356 error peerinvalid The package react@0.13.3 does not satisfy its siblings' peerDependencies requirements!
+356 error peerinvalid Peer muicss@0.4.7 wants react@^0.14.3
+356 error peerinvalid Peer react-dom@0.14.7 wants react@^0.14.7
+356 error peerinvalid Peer react-router@0.13.2 wants react@0.13.x
+357 verbose exit [ 1, true ]
