@@ -8,6 +8,7 @@ var QuoraRowQuestionAsked = React.createClass({
       isDowned : this.props.quora.down ,
       isPassed : this.props.quora.pass ,
       isAnswer : false,
+      isFollowed : this.props.quora.isFollow
 
     };
   },
@@ -23,6 +24,11 @@ var QuoraRowQuestionAsked = React.createClass({
       isAnswer: !this.state.isAnswer
     })
   },
+  handleFollowClick: function() {
+    this.setState({
+      isFollowed: !this.state.isFollowed
+    })
+  },
   render: function() {
 
     var answer = this.state.isAnswer?<form className="ui reply form">
@@ -32,8 +38,12 @@ var QuoraRowQuestionAsked = React.createClass({
 
   </form>:"";
 
-
+  var followBtn= this.state.isFollowed?<a className="hide"  onClick={this.handleFollowClick}>UnFollow</a>:<a className="hide"  onClick={this.handleFollowClick}>Follow</a>;
+var followNum =  this.state.isFollowed?<a className="hide"  >{this.props.quora.follow+1}</a>:<a className="hide"  >{this.props.quora.follow}</a>;
   return this.state.isPassed? (
+
+
+
     <div className="ui text container">
 
       <div className="ui items">
@@ -93,6 +103,9 @@ var QuoraRowQuestionAsked = React.createClass({
                 Answer
               </div>
               <a className="hide"  onClick={this.handlePassClick}>Pass</a>
+              {followBtn}
+              {followNum}
+
 
             </div>
           </div>

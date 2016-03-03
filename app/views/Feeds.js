@@ -22,7 +22,8 @@ var Quoras =[
 
     noUp:100,
     isTS:true,
-    isQA:false
+    isQA:false,
+    isFollow:false
   },
   {
     title:"Does Capitalism encourage greed?",
@@ -42,7 +43,9 @@ var Quoras =[
 
     follow:1,
     isTS:true,
-    isQA:false
+    isQA:false,
+    isFollow:false
+
 
   },
   {
@@ -62,7 +65,9 @@ var Quoras =[
     follow:1,
     noUp:2,
     isTS:true,
-    isQA:false
+    isQA:false,
+    isFollow:false
+
   },
   {
     title:"Who recommend me to follow if I want to learn how to put a system that bring people that search a business opportunity at me?",
@@ -81,7 +86,9 @@ var Quoras =[
     follow:1,
     noUp:3,
     isTS:false,
-    isQA:true
+    isQA:true,
+    isFollow:false
+
 
   },
   {
@@ -100,7 +107,9 @@ var Quoras =[
     share:3,
     follow:1,
     isTS:false,
-    isQA:true
+    isQA:true,
+    isFollow:false
+
 
   },
   {
@@ -119,7 +128,9 @@ var Quoras =[
     share:3,
     follow:1,
     isTS:false,
-    isQA:true
+    isQA:true,
+    isFollow:false
+
 
   }
 
